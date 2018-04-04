@@ -1,7 +1,44 @@
 {
-
-  "career":{
-
-    "info":"to purse a challenging and adventereous job career"
+ "career":{
+   "info":"To pursue a challenging and adventureous job career"
+ },
+"education":[
+  {
+    "degree":"SSC",
+    "school":"MGM high school",
+    "data":["2013","90%"]
+  },
+  {
+    "degree":"Intermediate",
+    "school":"Sri Chaithanya Junior Kalasala",
+    "data":["2015","90%"]
+  },
+  {
+    "degree":"B.Tech",
+    "school":"Sree Vidyanikethan Engineering College",
+    "data":["2019","75%"]
   }
+],
+"skills":[
+  {
+    "name":"Operating System",
+    "info":["windows","linux","ios","ubuntu"]
+    },
+    {
+      "name":"Languages",
+      "info":["C","Java","C++","Python"]
+      },
+      {
+        "name":"Database",
+        "info":["Oracle","My-SQL"]
+        },
+        {
+          "name":"Web-Tecnologies",
+          "info":["Html","CSS","Javascript"]
+        },
+        {
+          "name":"Frameworks",
+          "info":["Bootstrap",".net"]
+        }
+]
 }
